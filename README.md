@@ -1,4 +1,4 @@
-# sentiment-analysis
+# Sentiment-analysis
 
 *COMPANY*- CODTECH IT SOLUTION
 
